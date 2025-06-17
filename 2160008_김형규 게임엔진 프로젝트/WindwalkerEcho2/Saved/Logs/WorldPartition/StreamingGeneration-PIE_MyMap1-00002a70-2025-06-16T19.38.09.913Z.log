@@ -1,0 +1,26 @@
+[+] Containers:
+ |- [+] Container: /Game/MyMap1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:992D8E09481639BD63C6BDA50585CCD9 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:992D8E09481639BD63C6BDA50585CCD9 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/MyMap1
+----------------------------------------------------------------------------------------------------------------
+MyMap1 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of MyMap1 Persistent Level
+ |- Always loaded Actor Count: 1 
+ |- Actor Path: /Game/MyMap1.MyMap1:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/MyMap1/4/WF/DWGFM678YK9KFZ3O6FYMUN
+
+----------------------------------------------------------------------------------------------------------------
+MyMap1 - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
